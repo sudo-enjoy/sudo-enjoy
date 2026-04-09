@@ -4,8 +4,8 @@
 </p>
 
 <h3 align="center">
-I'm excited to share my journey as a Full stack and AI developer.
-<br>I have rich experience websites and AI projects development.
+I'm excited to share my journey as a Blockchain and AI developer.
+<br>I have rich experience web3 and AI projects development.
 </h3>
 <br clear="both">
 
